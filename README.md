@@ -2,7 +2,7 @@
 
 **Power BI Developer | BI & Data Analyst | Reporting Analyst**
 
-I turn raw business data into clear, interactive dashboards and reliable reports. I have 2.7 years of experience as an Application Development Analyst at Accenture, working on application development, reporting, data validation and ETL processes. I'm now focused on BI and data analyst roles.
+I turn raw business data into clear, interactive dashboards and reliable reports. I have 2.7 years of experience as an Packged App Development Analyst at Accenture, working on application development, reporting, data validation and ETL processes. I'm now focused on BI and data analyst roles.
 
 ## 🛠️ Skills
 
